@@ -115,3 +115,36 @@ System memory in use after: 81.3 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2219.
 Total: 1.760700 ms (FindLiveObjects: 0.157100 ms CreateObjectMapping: 0.053400 ms MarkObjects: 1.464800 ms  DeleteObjects: 0.084700 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 550.596279 seconds.
+  path: Assets/2D Platformer Assets
+  artifactKey: Guid(8a46c726a3286ec4fb9beaf8203f36b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets using Guid(8a46c726a3286ec4fb9beaf8203f36b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61591f4aaa2e571fee231fddd78152de') in 0.007306 seconds
+  Import took 0.009907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003005 seconds.
+  path: Assets/2D Platformer Assets
+  artifactKey: Guid(8a46c726a3286ec4fb9beaf8203f36b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets using Guid(8a46c726a3286ec4fb9beaf8203f36b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61591f4aaa2e571fee231fddd78152de') in 0.001648 seconds
+  Import took 0.003840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.884643 seconds.
+  path: Assets/2D Platformer Assets/Starter_Scene.unity
+  artifactKey: Guid(12eaea94eaebc5e459e49753ddfd1f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Starter_Scene.unity using Guid(12eaea94eaebc5e459e49753ddfd1f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90e69ec29d4db513d098cd099a8b99ff') in 0.010061 seconds
+  Import took 0.012391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 202.249325 seconds.
+  path: Assets/2D Platformer Assets/Starter_SceneSettings.lighting
+  artifactKey: Guid(b24aa7ad2f8ed3444a48288ee038834c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Starter_SceneSettings.lighting using Guid(b24aa7ad2f8ed3444a48288ee038834c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'cd32fcc64d40a6b4e7ef688f129c6bc7') in 0.017072 seconds
+  Import took 0.019471 seconds .
+
