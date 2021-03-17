@@ -881,8 +881,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95eb059a5d6208f44960974f15075f74, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 7.5
-  jumpForce: 17
+  moveSpeed: 8
+  jumpForce: 12
   rigidBody: {fileID: 1638512918}
   groundCheckPoint: {fileID: 1493617968}
   whatIsGround:
