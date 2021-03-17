@@ -148,3 +148,107 @@ Start importing Assets/2D Platformer Assets/Starter_SceneSettings.lighting using
  -> (artifact id: 'cd32fcc64d40a6b4e7ef688f129c6bc7') in 0.017072 seconds
   Import took 0.019471 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 182.631384 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-climb.png
+  artifactKey: Guid(c179a7ff3bcc4ad439e0d86f33b96480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-climb.png using Guid(c179a7ff3bcc4ad439e0d86f33b96480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5adb982ddb4c372c0c8fcec14ec7ae1b') in 0.058669 seconds
+  Import took 0.061021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-crouch.png
+  artifactKey: Guid(83a68f06629a6f649bf9d5572c17e7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-crouch.png using Guid(83a68f06629a6f649bf9d5572c17e7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20e7a18dbb1620b25ef2d4865b2efcc9') in 0.020330 seconds
+  Import took 0.022515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-run.png
+  artifactKey: Guid(e584515e5484cf8449d6aaaef8f6c4f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-run.png using Guid(e584515e5484cf8449d6aaaef8f6c4f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf361c19b693646fdd7db312fc820afa') in 0.018364 seconds
+  Import took 0.020636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-jump.png
+  artifactKey: Guid(c75bbcc065e590849ab334ba2c39e1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-jump.png using Guid(c75bbcc065e590849ab334ba2c39e1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeba0a15bbc880b2768b92831f45f584') in 0.011934 seconds
+  Import took 0.014110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-idle.png
+  artifactKey: Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-idle.png using Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac1d8f315a7031c82dd3087524f61558') in 0.012030 seconds
+  Import took 0.014222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-hurt.png
+  artifactKey: Guid(0fee9a55d5bdb214980ef65ca7f08461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-hurt.png using Guid(0fee9a55d5bdb214980ef65ca7f08461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7fb32ed37033f03f69095f354a48c8b') in 0.017001 seconds
+  Import took 0.019123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 491.500672 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-idle.png
+  artifactKey: Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-idle.png using Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29173dc765f0a8738dc213b9cb9434c8') in 0.009119 seconds
+  Import took 0.011806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.738924 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-idle.png
+  artifactKey: Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-idle.png using Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf92665a6d465923f8ace4a6fbbaea1c') in 0.009707 seconds
+  Import took 0.012106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029199 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-idle.png
+  artifactKey: Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-idle.png using Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf92665a6d465923f8ace4a6fbbaea1c') in 0.007421 seconds
+  Import took 0.009731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.668703 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-idle.png
+  artifactKey: Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-idle.png using Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8135ee29578495a289ff2e42f13addcc') in 0.007856 seconds
+  Import took 0.010322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034571 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-idle.png
+  artifactKey: Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-idle.png using Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8135ee29578495a289ff2e42f13addcc') in 0.005285 seconds
+  Import took 0.007612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 261.826457 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-idle.png
+  artifactKey: Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-idle.png using Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3811fa70277db17bde5954afed1b5f15') in 0.011291 seconds
+  Import took 0.013635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020267 seconds.
+  path: Assets/2D Platformer Assets/Graphics/Player/player-idle.png
+  artifactKey: Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Platformer Assets/Graphics/Player/player-idle.png using Guid(d0ff653f4b4d3f14dab1926a9ed3efb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3811fa70277db17bde5954afed1b5f15') in 0.008642 seconds
+  Import took 0.010904 seconds .
+
