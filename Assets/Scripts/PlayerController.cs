@@ -14,10 +14,13 @@ public class PlayerController : MonoBehaviour
 
     private bool canDoubleJump;
 
+    private Animator animator;
+
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -47,5 +50,10 @@ public class PlayerController : MonoBehaviour
                 }
             }
         }
+
+
+        animator.SetFloat("moveSpeed", Mathf.Abs(rigidBody.velocity.x));
+
+        animator.SetBool("isGrounded", isGrounded);         // Not Working: Find out why isGrounded stays TRUE on 1st Jump
     }
 }
