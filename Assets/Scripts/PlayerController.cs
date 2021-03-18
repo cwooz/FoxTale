@@ -12,7 +12,7 @@ public class PlayerController : MonoBehaviour
     public Transform groundCheckPoint;
     public LayerMask whatIsGround;
 
-    private bool canDoubleJump;
+    private bool canDoubleJump;                 // Still Needs work, isGrounded is set to TRUE
 
     private Animator animator;
     private SpriteRenderer spriteRenderer;
