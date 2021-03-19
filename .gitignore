@@ -9,6 +9,7 @@
 sysinfo.txt
 *.stackdump
 /Assets/AssetStoreTools*
+/Assets/Tiles
 *.apk
 *.unitypackage
  
